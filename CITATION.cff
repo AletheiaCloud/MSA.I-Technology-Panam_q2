@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "PANAM_Q — Quantum Adaptive Self-Modeling Architecture"
+authors:
+  - family-names: "Rojek"
+    given-names: "Tomasz Artur"
+version: 1.0.0
+date-released: 2025-07-14
+license: GPL-3.0
+repository-code: "https://github.com/AletheiaCloud/MSA.I-Technology-Panam_q2/new/main"
+keywords:
+  - quantum-machine-learning
+  - adaptive-control
+  - self-modeling
+  - epistemic-coherence
+  - regime-shift-detection
